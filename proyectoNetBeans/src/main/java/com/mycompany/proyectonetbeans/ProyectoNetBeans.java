@@ -15,7 +15,7 @@ public class ProyectoNetBeans {
      */
 public class Counter {
 /**
- * 
+ * .
  */
     private int count;
 // a simple integer instance variable
